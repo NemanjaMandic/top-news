@@ -1,0 +1,20 @@
+.nextIcon{
+    color: #000;
+    opacity: 1 !important;
+    font-size: 2.4rem;
+    font-weight: 800;
+    position: absolute;
+    right: 0;
+}
+
+.prevIcon{
+    color: #000;
+    opacity: 1 !important;
+    font-size: 2.4rem;
+    font-weight: 800;
+    position: absolute;
+    left: 0;
+}
+.title{
+    margin: 1.2rem 0;
+}
